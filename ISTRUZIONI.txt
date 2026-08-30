@@ -1,0 +1,13 @@
+1. Nel repository braucci/braucci mantieni assets/terminal-profile-card.png.
+2. Carica le due cartelle di questo pacchetto nella cartella principale del repository:
+   - scripts
+   - .github
+3. Sostituisci il contenuto di README.md con README-DA-INCOLLARE.md.
+4. Apri Settings > Actions > General. In "Workflow permissions" seleziona
+   "Read and write permissions" e salva.
+5. Apri Actions > Update profile statistics > Run workflow > Run workflow.
+6. Attendi circa un minuto e ricarica github.com/braucci.
+
+La testata ora usa assets/terminal-profile.svg. Il file viene rigenerato ogni
+giorno alle 03:17 UTC. "Contributions" indica le contribuzioni pubbliche
+dell'anno in corso: e' piu' preciso di chiamarle "Commits".
